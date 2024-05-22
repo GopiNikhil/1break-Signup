@@ -1,0 +1,109 @@
+body{
+    background-color: black;
+}
+#demo::first-letter{
+    color: red;
+}
+#demo{
+    color: white;
+    
+    font-size: 20px;
+    font-style: bold;
+    position: relative;
+    left: 190px;
+    top: 100px;
+    
+}
+#demo1{
+    color: antiquewhite;
+    font-size: smaller;
+    height: 70px;
+    position: absolute;
+    top: 280px;
+    left: 200px;
+    
+    
+    
+}
+#demo2{
+    color: antiquewhite;
+    font-size: smaller;
+    height: 70px;
+    position: absolute;
+    top: 350px;
+    left: 200px;
+    
+    
+    
+}
+#demo3{
+    color: antiquewhite;
+    font-size: smaller;
+    position: absolute;
+    top: 410px;
+    left: 200px;
+    
+
+}
+#demo4{
+    
+    position: absolute;
+    top: 470px;
+    left: 200px;
+   
+    
+}
+button{
+    border: 1px solid green;
+    width: 170px;
+    color: rgb(29, 242, 29);
+    background-color: rgba(4, 71, 4, 0.538);
+}
+#q1{
+    position: absolute;
+    top: 530px;
+    left: 200px;
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+#q2{
+    position: absolute;
+    top: 530px;
+    left: 300px;
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+    text-align: center;
+    
+}
+
+#demo5{
+    font-size: x-small;
+    position: absolute;
+    top: 560px;
+    left: 200px;
+    
+}
+#img1{
+    
+    position: absolute;
+    bottom: 180px;
+    left: 800px;
+}
+#demo6{
+    color: antiquewhite;
+    font-size: 20px;
+    position: absolute;
+    top: 550px;
+    left: 730px;
+}
+#demo7{
+    color: white;
+    position: absolute;
+    top: 620px;
+    left: 730px;
+    font-size: smaller;
+}
